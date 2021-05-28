@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C451DD57-B0F4-4462-AED2-2FC769A3AABF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSModule3Assignment/Program.cs">
+    <Files>
+      <File FileName="CSModule3Assignment/Program.cs" Line="7" Column="18" />
+      <File FileName="CSModule3Assignment/Models/Users.cs" Line="2" Column="30" />
+      <File FileName="CSModule3Assignment/Models/Roles.cs" Line="2" Column="30" />
+      <File FileName="CSModule3Assignment/Models/Images.cs" />
+      <File FileName="CSModule3Assignment/Models/Posts.cs" />
+      <File FileName="CSModule3Assignment/Models/Comments.cs" Line="2" Column="11" />
+      <File FileName="CSModule3Assignment/DTOS/CommentsDTO.cs" Line="1" Column="1" />
+      <File FileName="CSModule3Assignment/DTOS/ImagesDTO.cs" />
+      <File FileName="CSModule3Assignment/DTOS/PostsDTO.cs" />
+      <File FileName="CSModule3Assignment/DTOS/RolesDTO.cs" />
+      <File FileName="CSModule3Assignment/DTOS/UsersDTO.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSModule3Assignment" expanded="True">
+            <Node name="CSModule3Assignment" expanded="True">
+              <Node name="DTOS" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSModule3Assignment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
